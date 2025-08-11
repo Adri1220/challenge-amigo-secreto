@@ -11,7 +11,7 @@ Este proyecto fue desarrollado como parte de un reto de programación para pract
 
 ¡Mira cómo funciona la aplicación en acción!
 
-![Vista previa del proyecto](./preview.gif)
+![Vista previa del proyecto](./amigosecreto.gif)
 
 ---
 ## ✨ Características principales
