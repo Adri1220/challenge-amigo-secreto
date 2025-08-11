@@ -27,7 +27,7 @@ Este proyecto fue desarrollado como parte de un reto de programación para pract
 ## 🚀 Cómo usarlo
 
 1. Clona el repositorio con el siguiente comando:  
-   git clone https://github.com/usuario/amigo-secreto.git
+   git clone https://github.com/Adri1220/challenge-amigo-secreto.git
 
 2. Abre el archivo `index.html` en tu navegador.  
 3. Ingresa los nombres de los participantes.  
